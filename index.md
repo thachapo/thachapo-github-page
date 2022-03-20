@@ -1,4 +1,4 @@
-|GYMGO| |HOME|Trainer|Programs|Experience|Pricing| |Enter|
+|GYMGO| |Home|Trainer|Programs|Experience|Pricing| |Enter|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
 
 ---
@@ -11,3 +11,4 @@ There are different sports in this series and you have to work hard to enjoy the
 
 ---
 
+<h2><b>OUT CLASSES</b></h2>
