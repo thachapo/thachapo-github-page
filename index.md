@@ -12,3 +12,5 @@ There are different sports in this series and you have to work hard to enjoy the
 ---
 
 <h2><b>OUT CLASSES</b></h2>
+
+<h2><b>GYMGO</b></h2>
