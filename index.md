@@ -13,4 +13,6 @@ There are different sports in this series and you have to work hard to enjoy the
 
 <h2><b>OUR CLASSES</b></h2>
 
+Our classes are for all ages and tastes. You can bring <br>both youself and your child and use the facilities of <br>the collection safety...
+
 <h2><b>GYMGO</b></h2>
